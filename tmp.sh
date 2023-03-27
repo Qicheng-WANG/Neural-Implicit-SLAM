@@ -1,0 +1,11 @@
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_keyglobal+weight+track+rendered8000/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_keyglobal+weight+12+rendered/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key1global+weight+track+rendered8000/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key1+weight+track+rendered/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key0global+weight+track12+rendered8000/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key0global+weight+track+rendered8000/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key0+weight+rendered/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key00global+weight+12+rendered/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key+weight+rendered/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_key/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
+python src/tools/eval_recon.py --rec_mesh output_imap/Replica/room0_BA/mesh/final_mesh_eval_rec.ply --gt_mesh cull_replica_mesh/room0.ply -3d --save
