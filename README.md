@@ -1,1 +1,1 @@
-# Neural-Implicit-SLAM-
+# Neural-Implicit-SLAM
